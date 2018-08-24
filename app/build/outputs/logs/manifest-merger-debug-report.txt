@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/ee909502cd997de6f25cdfdd212c5570/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/69a09012aed740a0e230db2abcded937/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/dbf3ac4570f5d82e8f6679754e6ce276/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7141bb0f73861ccd21ef2d667ee7d4b5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/82d6a504bfa79fe519d86589395b843c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c3dca1b895e0a0269aabb76c5d2de550/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebb5b79c12e96a5fc759072102cfc3db/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/e6665343787935e92491b702d21f6878/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8de9c7c8ec698e2f1a60049a063df88e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/17f25677dd263fff8ff2fb0622c03561/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/ee909502cd997de6f25cdfdd212c5570/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/ee909502cd997de6f25cdfdd212c5570/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/dbf3ac4570f5d82e8f6679754e6ce276/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/dbf3ac4570f5d82e8f6679754e6ce276/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7141bb0f73861ccd21ef2d667ee7d4b5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7141bb0f73861ccd21ef2d667ee7d4b5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/82d6a504bfa79fe519d86589395b843c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/82d6a504bfa79fe519d86589395b843c/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c3dca1b895e0a0269aabb76c5d2de550/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c3dca1b895e0a0269aabb76c5d2de550/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebb5b79c12e96a5fc759072102cfc3db/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebb5b79c12e96a5fc759072102cfc3db/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/e6665343787935e92491b702d21f6878/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/e6665343787935e92491b702d21f6878/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8de9c7c8ec698e2f1a60049a063df88e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8de9c7c8ec698e2f1a60049a063df88e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/17f25677dd263fff8ff2fb0622c03561/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/17f25677dd263fff8ff2fb0622c03561/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.dingqiqi.hinttitlerecycleview.MainActivity
+ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/ee909502cd997de6f25cdfdd212c5570/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/ee909502cd997de6f25cdfdd212c5570/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/69a09012aed740a0e230db2abcded937/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/69a09012aed740a0e230db2abcded937/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/dbf3ac4570f5d82e8f6679754e6ce276/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/dbf3ac4570f5d82e8f6679754e6ce276/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7141bb0f73861ccd21ef2d667ee7d4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/7141bb0f73861ccd21ef2d667ee7d4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/82d6a504bfa79fe519d86589395b843c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/82d6a504bfa79fe519d86589395b843c/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c3dca1b895e0a0269aabb76c5d2de550/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/c3dca1b895e0a0269aabb76c5d2de550/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebb5b79c12e96a5fc759072102cfc3db/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/ebb5b79c12e96a5fc759072102cfc3db/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/e6665343787935e92491b702d21f6878/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/e6665343787935e92491b702d21f6878/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8de9c7c8ec698e2f1a60049a063df88e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8de9c7c8ec698e2f1a60049a063df88e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/17f25677dd263fff8ff2fb0622c03561/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/17f25677dd263fff8ff2fb0622c03561/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/gavin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/ee909502cd997de6f25cdfdd212c5570/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gavin/Downloads/HintTitleView-master/app/src/main/AndroidManifest.xml
